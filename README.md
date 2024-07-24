@@ -1,1 +1,7 @@
-# how-to-connect-the-server
+# このドキュメントとは?
+このドキュメントは、ケイマン君関連のプロジェクト関連のdocsです。
+
+
+[ケイマン君ホームページ][HP]
+
+[HP]: https://caymankun.f5.si/
